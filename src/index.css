@@ -82,7 +82,7 @@ button {
   cursor: pointer;
 }
 
-.button-wrapper button.activve {
+.button-wrapper button.active {
   color: #0C0E1B;
   background-color: #C9CCEA;
   border: 1px solid #0C0E1B;
